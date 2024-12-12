@@ -25,7 +25,9 @@ result = np.linalg.solve(a,b)
 print(result)
 ```
 ## Output:
-![Uploading Screenshot 2024-12-12 143320.png…]()
+![Screenshot 2024-12-12 144232](https://github.com/user-attachments/assets/2f45514a-168c-414d-b6af-dc8b599d32ff)
+
+
 
 
 ## Result: 
